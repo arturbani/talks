@@ -6,9 +6,9 @@ Palestra sobre como iniciar seus estudos de front-end! Você pode conferir ela [
 ### Materiais de estudos e links citados na talk:
  - https://developer.mozilla.org/pt-BR/docs/Aprender/HTML/Introducao_ao_HTML
  - https://developer.mozilla.org/pt-BR/docs/Aprender/CSS/Introduction_to_CSS
- - https://flexboxfroggy.com/ 
- - http://flukeout.github.io/#
- - https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript
- - https://watchandcode.com/p/practical-javascript
+ - https://flexboxfroggy.com/ <-  Mini game para treinar "display: flex"!
+ - http://flukeout.github.io/# <- Mini game para treinar seletores CSS!
+ - https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript 
+ - https://watchandcode.com/p/practical-javascript <- Curso gratuido de JS
  - https://2018.stateofjs.com/front-end-frameworks/overview/
- 
+ - https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg <- Canal da CollabCode
