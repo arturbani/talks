@@ -8,4 +8,4 @@ yarn
 yarn start
 ```
 
-🚀
+feito com 💙 por artur bani.
