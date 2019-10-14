@@ -17,4 +17,4 @@ Palestra sobre como iniciar seus estudos de front-end! Você pode conferir ela [
 Palestra para o time de desenvolvimento da nata.house sobre o hook useEffect! Você pode conferir ela [aqui](https://docs.google.com/presentation/d/1RKieT_ipE9CRtqitiSD1V1Qd5-RKZqiY4DTxqfPAZHU/edit?usp=sharing) e o código utilizado para exemplos de explicações [aqui](https://github.com/arturbani/talks/tree/master/hands-on-useffect)
 
 ---
-feito com 💙por artur bani.
+feito com 💙 por artur bani.
