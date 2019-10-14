@@ -14,4 +14,4 @@ Palestra sobre como iniciar seus estudos de front-end! Você pode conferir ela [
  - https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg <- Canal da CollabCode
 
 # Entendendo o useEffect - Hands-on nata.house - 06/09/19
-Palestra para o time de desenvolvimento da nata.house sobre o hook useEffect! Você pode conferir ela [aqui](https://docs.google.com/presentation/d/1RKieT_ipE9CRtqitiSD1V1Qd5-RKZqiY4DTxqfPAZHU/edit?usp=sharing)
+Palestra para o time de desenvolvimento da nata.house sobre o hook useEffect! Você pode conferir ela [aqui](https://docs.google.com/presentation/d/1RKieT_ipE9CRtqitiSD1V1Qd5-RKZqiY4DTxqfPAZHU/edit?usp=sharing) e o código utilizado para exemplos de explicações [aqui](https://github.com/arturbani/talks/tree/master/hands-on-useffect)
