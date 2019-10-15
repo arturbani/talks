@@ -18,7 +18,7 @@ Palestra sobre como iniciar seus estudos de front-end! Você pode conferir ela [
 ### Hands-on nata.house - Setembro/2019
 Palestra para o time de desenvolvimento da nata.house sobre o hook useEffect! Você pode conferir ela [aqui](https://docs.google.com/presentation/d/1RKieT_ipE9CRtqitiSD1V1Qd5-RKZqiY4DTxqfPAZHU/edit?usp=sharing) e o código utilizado para exemplos e explicações [aqui](https://github.com/arturbani/talks/tree/master/hands-on-useffect)
 
-# O que é React e por que está dominando o mercado
+# O que é React e por que está dominando o front-end
 ### Semana C&T CEFET-MG - Outubro/2019
 Em breve ™️
 
