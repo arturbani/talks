@@ -20,7 +20,7 @@ Palestra para o time de desenvolvimento da nata.house sobre o hook useEffect! Vo
 
 # O que é React e por que está dominando o front-end
 ### Semana C&T CEFET-MG - Outubro/2019
-Em breve ™️
+Palestra sobre React, abordando seus princípios de uma forma mais leve! Você pode conferir ela [aqui](https://docs.google.com/presentation/d/1ow8vLrdC_gN7AB0JlPVnjPVbBCmFZxwED6YDwbPwye0/edit#slide=id.p). Em breve colocarei o código do live code aqui!
 
 ---
 feito com 💙 por artur bani.
