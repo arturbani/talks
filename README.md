@@ -22,5 +22,13 @@ Palestra para o time de desenvolvimento da nata.house sobre o hook useEffect! Vo
 ### Semana C&T CEFET-MG - Outubro/2019
 Palestra sobre React, abordando seus princípios de uma forma mais leve! Você pode conferir ela [aqui](https://docs.google.com/presentation/d/1ow8vLrdC_gN7AB0JlPVnjPVbBCmFZxwED6YDwbPwye0/edit#slide=id.p). Em breve colocarei o código do live code aqui!
 
+#### Materiais de estudos e referências:
+ - https://reactjs.org/
+ - https://www.accelebrate.com/blog/the-real-benefits-of-the-virtual-dom-in-react-js/
+ - https://hackernoon.com/virtual-dom-in-reactjs-43a3fdb1d130
+ - https://2018.stateofjs.com/
+ - https://github.com/uberVU/react-guide/blob/master/props-vs-state.md
+ 
+
 ---
 feito com 💙 por artur bani.
